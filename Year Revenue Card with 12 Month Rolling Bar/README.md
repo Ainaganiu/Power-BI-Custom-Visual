@@ -1,4 +1,4 @@
-![Yearly Revenue Card preview](preview.png)
+![Yearly Revenue Card preview](https://github.com/Ainaganiu/Custom-Visual/blob/main/Year%20Revenue%20Card%20with%2012%20Month%20Rolling%20Bar/CardImage.png)
 
 # Yearly Revenue Card SVG — DAX Measure
 

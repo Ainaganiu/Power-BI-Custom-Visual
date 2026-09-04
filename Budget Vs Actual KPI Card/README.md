@@ -1,6 +1,7 @@
 # Three KPI card builds, same design: what actually changes for the person using the report
 
 FY budget vs. limit, % used, red flag when you're over. Built three different ways. Here's what changes once someone's actually clicking around the report, not just looking at a screenshot of it.
+This visual is inspired by (Zsolt Szabó)[!https://www.linkedin.com/in/zsolt-szabo-bln/0]
 
 ## Native visual
 

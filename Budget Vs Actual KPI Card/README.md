@@ -8,7 +8,7 @@ FY budget vs. limit, % used, red flag when you're over. Built three different wa
 
 This visual is inspired by [Zsolt Szabó](https://www.linkedin.com/in/zsolt-szabo-bln/0)
 
-[Image](https://github.com/Ainaganiu/Custom-Visual/blob/main/Budget%20Vs%20Actual%20KPI%20Card/KPI%20Image.png)
+![Image](https://github.com/Ainaganiu/Custom-Visual/blob/main/Budget%20Vs%20Actual%20KPI%20Card/KPI%20Image.png)
 
 ## Native visual
 

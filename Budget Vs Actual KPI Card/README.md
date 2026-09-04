@@ -2,9 +2,9 @@
 
 FY budget vs. limit, % used, red flag when you're over. Built three different ways. Here's what changes once someone's actually clicking around the report, not just looking at a screenshot of it.
 
-This visual is inspired by (Zsolt Szabó)[!https://www.linkedin.com/in/zsolt-szabo-bln/0]
+This visual is inspired by [Zsolt Szabó](https://www.linkedin.com/in/zsolt-szabo-bln/0)
 
-(Video Demonstration)[!https://github.com/Ainaganiu/Custom-Visual/blob/main/Budget%20Vs%20Actual%20KPI%20Card/svgZlots.mp4]
+[![Video Demonstration](thumbnail.png)](https://github.com/Ainaganiu/Custom-Visual/raw/main/Budget%20Vs%20Actual%20KPI%20Card/svgZlots.mp4)
 
 ## Native visual
 

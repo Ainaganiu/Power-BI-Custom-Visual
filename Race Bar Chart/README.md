@@ -30,3 +30,5 @@ Bar Chart Race animates a ranked list of categories across periods (months, year
 - Cross-filtering — click a bar to filter the rest of the report
 - Full keyboard navigation and high-contrast mode support
 - Native font controls on every text element
+
+Link to Pbiviz File [Here](https://github.com/Ainaganiu/Custom-Visual/blob/main/Race%20Bar%20Chart/barChartRace.1.0.30.0.pbiviz)

@@ -26,6 +26,8 @@ What you give up for that: it behaves like an image, not a Power BI object. No S
 
 It still updates live off filters and slicers, since the SVG regenerates from the DAX each time. Works well for exec decks and PDF-style reports, where people are reading the number, not digging into it.
 
+[Get the file](https://github.com/Ainaganiu/Custom-Visual/blob/main/Budget%20Vs%20Actual%20KPI%20Card/SVG%20Codes%20File.md)
+
 ## PBIVIZ visual
 
 Custom-coded, packaged as a `.pbiviz` file. Shows up in the visualizations pane with a real Format pane — colors, thresholds, labels, whatever got exposed in code.
@@ -35,6 +37,8 @@ Has to be imported once before anyone can use it — from a file, an org visual 
 This is the only build where tooltips, selection, and cross-filter are a decision made in code, not something you get by default. Whatever wasn't built in doesn't exist — no quick format-pane fix, that needs a dev cycle.
 
 Makes the most sense when the same visual is going into a bunch of reports, or out the door to other people, and it needs to behave the same everywhere it lands.
+
+[Get the file]()
 
 ## At a glance
 

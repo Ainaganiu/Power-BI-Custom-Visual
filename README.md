@@ -26,7 +26,7 @@ Contributions, improvements, and new examples are welcome.
 - Add or update visuals / templates and include a short README describing how to use them.
 - Open a pull request describing the change.
 
-If you plan to publish a visual to AppSource or distribute it widely, include build and packaging instructions in the visual's folder.
+If you plan to publish a visual to AppSource or distribute it widely, include build, inform me and packaging instructions in the visual's folder.
 
 ## License
 MIT

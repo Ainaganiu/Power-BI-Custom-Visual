@@ -2,7 +2,7 @@
 
 An animated ranked bar chart for Power BI that shows how categories rise and fall over time — the "racing bars" format popularized on YouTube, built as a fully themable, keyboard-accessible custom visual.
 
-![Bar Chart Race in action](<!-- image URL here -->)
+![Bar Chart Race in action](https://github.com/Ainaganiu/Custom-Visual/blob/main/Race%20Bar%20Chart/Bar%20Chart%20Image.png?raw=true)
 
 ## What it does
 

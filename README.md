@@ -29,8 +29,7 @@ Contributions, improvements, and new examples are welcome.
 If you plan to publish a visual to AppSource or distribute it widely, include build and packaging instructions in the visual's folder.
 
 ## License
-
-If this repository does not include a LICENSE file, assume the project does not have an explicit license yet. Add a LICENSE file if you want to make reuse and distribution terms clear.
+MIT
 
 ## Contact
 

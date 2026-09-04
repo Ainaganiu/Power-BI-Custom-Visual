@@ -1,10 +1,10 @@
-![Sales Card preview](preview.png)
+![Sales Card preview](https://github.com/Ainaganiu/Custom-Visual/blob/main/Sales%20KPI%20Card%20YoY/kpiCardSales.png)
 
 **From sketch to card:**
 
 | Sketch | Final output |
 |---|---|
-| ![Original sketch](sketch.jpeg) | ![Final rendered card](final-output.png) |
+| ![Original sketch](https://github.com/Ainaganiu/Custom-Visual/blob/main/Sales%20KPI%20Card%20YoY/skethc.jpeg) | ![Final rendered card](https://github.com/Ainaganiu/Custom-Visual/blob/main/Sales%20KPI%20Card%20YoY/kpiCardSales.png) |
 
 
 # KPI SVG - Sales Card — DAX Measure
